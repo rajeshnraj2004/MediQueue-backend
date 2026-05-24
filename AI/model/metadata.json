@@ -1,0 +1,27 @@
+{
+  "symptoms": [
+    "breathing problem",
+    "chest pain",
+    "cold",
+    "cough",
+    "dizziness",
+    "fatigue",
+    "fever",
+    "headache",
+    "high bp",
+    "high sugar",
+    "loose motion",
+    "stomach pain",
+    "vomiting"
+  ],
+  "diseases": [
+    "Diabetes",
+    "Flu",
+    "Food Poisoning",
+    "Heart Disease",
+    "Hypertension",
+    "Migraine"
+  ],
+  "trainedAt": "2026-05-09T04:45:04.775Z",
+  "accuracy": 0.9959040512017765
+}
